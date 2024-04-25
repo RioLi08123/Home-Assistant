@@ -14,4 +14,5 @@ https://youtu.be/sZcOlW-DwrU?si=QqOY40KrekdRCa8h
 
 Remember the IP 
 Enter https://[The IP]:8006 to manage your Proxmoc
+Example: https://192.168.0.15:8006
 # Home-Assistant
