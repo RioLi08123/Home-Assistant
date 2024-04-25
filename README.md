@@ -5,7 +5,7 @@ I'm useing Netgear GS105E ProSafe Plus
 I'm used my old PC to install Proxmox VE
 
 Proxmox VE 8.0 ISO Installer:
-https://www.proxmox.com/en/downloads/proxmox-virtual-environment/iso
+    https://www.proxmox.com/en/downloads/proxmox-virtual-environment/iso
 
 Download Via the link and boot up like a regular ISO file
 
