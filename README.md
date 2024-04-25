@@ -23,6 +23,8 @@ Also you can use SSH to manage your server
 Open terminal and follow this command
 ssh [The IP]@[User name]
 
+Proxmox default username are root so...
+
 Example:
 
     shh 192.168.0.15@root
