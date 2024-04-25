@@ -22,13 +22,7 @@ Also you can use SSH to manage your server
 
 Open terminal and follow this command
 
-ssh [The IP]@[Username]
-
-Proxmox default username are root so...
-
-Example:
-
     shh 192.168.0.15@root
-And enter the passwork you set before
-And type [Y] to confirme
+And enter the passwork you set before and type [Y] to confirme
+
 # Home-Assistant
