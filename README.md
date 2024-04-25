@@ -1,3 +1,6 @@
+# Network
+I'm useing Netgear GS105E ProSafe Plus
+
 # Proxmox
 I'm used my old PC to install Proxmox VE
 
@@ -8,3 +11,4 @@ Download Via the link and boot up like a regular ISO file
 
 You can watch Craft Conputing's video to help you install Proxmox VE
 https://youtu.be/sZcOlW-DwrU?si=QqOY40KrekdRCa8h
+
