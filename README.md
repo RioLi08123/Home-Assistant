@@ -14,7 +14,15 @@ https://youtu.be/sZcOlW-DwrU?si=QqOY40KrekdRCa8h
 
 Remember the IP 
 
-Enter https://[The IP]:8006 to manage your Proxmoc
+Enter https://[The IP]:8006 to manage your server
 
 Example: https://192.168.0.15:8006
+
+Also you can use SSH to manage your server
+
+Open terminal and follow this command
+
+    shh 192.168.0.15@root
+And enter the passwork you set before
+And type [Y] to confirme
 # Home-Assistant
