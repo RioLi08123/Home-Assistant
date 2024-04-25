@@ -21,6 +21,9 @@ Example: https://192.168.0.15:8006
 Also you can use SSH to manage your server
 
 Open terminal and follow this command
+ssh [The IP]@[User name]
+
+Example:
 
     shh 192.168.0.15@root
 And enter the passwork you set before
