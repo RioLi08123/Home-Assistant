@@ -21,7 +21,7 @@ Example: https://192.168.0.15:8006
 Also you can use SSH to manage your server
 
 Open terminal and follow this command
-ssh [The IP]@[Username]
+    ssh [The IP]@[Username]
 
 Proxmox default username are root so...
 
