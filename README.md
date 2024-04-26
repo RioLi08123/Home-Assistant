@@ -14,6 +14,7 @@ You can watch Craft Computing's video to help you install Proxmox VE:
 
 Remember the IP address.
 
+###Manage
 Enter `https://[The IP]:8006` to manage your server.
 
 Example: `https://192.168.0.15:8006`
