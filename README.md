@@ -11,7 +11,6 @@ Proxmox VE 8.0 ISO Installer:
 Download via the link and boot up like a regular ISO file.
 
 You can watch Craft Computing's video to help you install Proxmox VE:
-
 [Craft Computing Proxmox Installation Guide](https://youtu.be/sZcOlW-DwrU?si=QqOY40KrekdRCa8h)
 
 Remember the IP address.
