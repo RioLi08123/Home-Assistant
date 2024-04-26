@@ -26,4 +26,8 @@ Also, you can use SSH to manage your server.
 Open the terminal and enter `ssh [The IP]@[Username]`.
 
 Example:
+    
+    ssh 192.168.0.15@root
+Enter the password you set before and type `[Y]` to confirm.
+
 
