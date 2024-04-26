@@ -29,4 +29,4 @@ Example:
     ssh 192.168.0.15@root
 Enter the password you set before and type `[Y]` to confirm.
 
-#Home-Assistant
+# Home-Assistant
