@@ -23,9 +23,9 @@ Use Proxmox default user `[root]` and enter the password you set before.
 
 Also, you can use SSH to manage your server.
 
-Open the terminal and enter `ssh [The IP]@[Username]`.
+Open the terminal and enter `ssh [Username]@[The IP]`.
 
-Example:`ssh 192.168.0.15@root`
+Example:`ssh root@192.168.9.15`
 
 Enter the password you set before and type `Y` to confirm.
 
