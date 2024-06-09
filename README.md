@@ -1,6 +1,3 @@
-# Network
-I'm using Netgear GS105E ProSafe Plus.
-
 # Proxmox
 I used my old PC to install Proxmox VE.
 
